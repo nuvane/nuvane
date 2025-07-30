@@ -4,7 +4,13 @@ Obecnie pracuję w IT (helpdesk), ale rozwijam się w kierunku **data analysis**
 
 **Moje aktualne cele:**
 - Przebranżowienie się na analityka danych
-- Doskonalenie umiejętności: `SQL`, `Excel`, `Power BI`, `Tableau`, `Python`
+
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow?logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql)
+![Status](https://img.shields.io/badge/status-w%20rozwoju-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+- Doskonalenie umiejętności: `SQL`, `Excel`, `Power BI`, `Tableau`, `Python` ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 - Tworzenie praktycznych projektów do portfolio
 
 ---
