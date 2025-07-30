@@ -1,10 +1,11 @@
 # Cześć! Jestem Maja - uczę się analizy danych
-![Python](https://img.shields.io/badge/Python-3.10-black?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-black?style=flat&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-black?style=flat&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-b3cde0?style=flat&logo=python&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-b3cde0?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-b3cde0?style=flat&logo=postgresql&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-b3cde0?style=flat&logo=microsoft-excel&logoColor=black)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-b3cde0?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/maja)
+
 
 
 Obecnie pracuję w IT (helpdesk), ale rozwijam się w kierunku **data analysis** i szukam pierwszych doświadczeń w tym obszarze.
