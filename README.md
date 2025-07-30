@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-b3cde0?style=flat&logo=postgresql&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-b3cde0?style=flat&logo=microsoft-excel&logoColor=black)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-b3cde0?style=flat&logo=linkedin&logoColor=black)](https://pl.linkedin.com/in/maja-smoli%C5%84ska-5529bb351?trk=people-guest_people_search-card)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-b3cde0?style=flat&logo=linkedin&logoColor=black)](https://pl.linkedin.com/in/maja-smolińska-5529bb351)
 
 
 Obecnie pracuję w IT (helpdesk), ale rozwijam się w kierunku **data analysis** i szukam pierwszych doświadczeń w tym obszarze.
