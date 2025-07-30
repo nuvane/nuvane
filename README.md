@@ -26,7 +26,7 @@ Obecnie pracuję w IT (helpdesk), ale rozwijam się w kierunku **data analysis**
 
 - `Excel` / `Power BI`
 - `SQL` (SQLite, PostgreSQL)
-- `Python` + biblioteki `pandas`, `openpyxl`, `matplotlib`
+- `Python` + biblioteki `pandas`, `openpyxl`, `matplotlib`, `seaborn`, `plotly`
 - `Tableau` (w trakcie nauki)
 
 ---
