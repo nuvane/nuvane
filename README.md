@@ -13,7 +13,8 @@ Obecnie pracuję w IT (helpdesk), ale rozwijam się w kierunku **data analysis**
 
 [Automatyczny generator raportów Excel (Python, openpyxl, matplotlib)](https://github.com/nuvane/RAPORTY-BANKOWE.git)  
 > Tworzy codzienny raport sald z kont bankowych dla wielu spółek i walut (Excel z wykresami + podsumowanie)
-
+[Analiza danych Netflixa (Python, pandas, openpyxl, matplotlib, seaborn, plotly)](https://github.com/nuvane/ANALIZA-FILMOW.git)
+> Automatyczny generator raportu z danych Netflixa zawierający statystyki, wykresy oraz interaktywne wizualizacje.
 ---
 
 ### Narzędzia, z których korzystam:
